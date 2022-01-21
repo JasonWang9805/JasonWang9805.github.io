@@ -7,7 +7,7 @@ date_format: "ordinal"
 title: Autorobot
 subtitle: "公众号:Autorobot"
 description: "instruction project and blogs"
-keywords: Autorobot, JasonWang, JasonWang9805
+keywords: Autorobot, JasonWang9805
 timezone: Asia/Beijing
 encoding: "utf-8"
 repository: JasonWang9805/JasonWang9805.github.io
@@ -51,10 +51,10 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: JasonWang
+author: JasonWang9805
 organization: 
 organization_url: 
-github_username: JasonWang
+github_username: JasonWang9805
 location: Binzhou, China
 email: J.X.WANG2021@gmail.com
 
@@ -132,21 +132,22 @@ comments_provider: gitalk
 disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
-gitment:
-    owner: mzlogin
-    repo: blog-comments
-    oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+#暂时不用#
+#gitment:
+#   owner: JasonWang9805
+#    repo: blog-comments
+#   oauth:
+#        client_id: d2e1cbbd298958076462
+#        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
-gitalk:
-    owner: mzlogin
-    repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+#gitalk:
+#    owner: mzlogin
+#    repo: blog-comments
+#    clientID: d2e1cbbd298958076462
+#    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://utteranc.es/
-utterances:
-    repo: mzlogin/blog-comments
+#utterances:
+#    repo: mzlogin/blog-comments
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
